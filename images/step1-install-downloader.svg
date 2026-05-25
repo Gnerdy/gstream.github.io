@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 632 380" fill="none">
+  <rect width="632" height="380" rx="12" fill="#1f1f1f"/>
+  <rect x="40" y="30" width="552" height="60" rx="8" fill="#2a2a2a"/>
+  <rect x="60" y="45" width="30" height="30" rx="4" fill="#e50914"/>
+  <rect x="110" y="50" width="200" height="20" rx="4" fill="#333"/>
+  <rect x="60" y="110" width="80" height="80" rx="40" fill="#2a2a2a"/>
+  <text x="100" y="160" text-anchor="middle" fill="#666" font-size="30" font-family="sans-serif">🔍</text>
+  <rect x="160" y="130" width="250" height="36" rx="18" fill="#2a2a2a"/>
+  <text x="200" y="154" fill="#b3b3b3" font-size="14" font-family="sans-serif">Search "Downloader"</text>
+  <rect x="60" y="210" width="512" height="130" rx="8" fill="#2a2a2a"/>
+  <rect x="80" y="225" width="60" height="60" rx="12" fill="#e50914"/>
+  <rect x="155" y="230" width="200" height="16" rx="4" fill="#555"/>
+  <rect x="155" y="254" width="140" height="12" rx="4" fill="#444"/>
+  <rect x="155" y="274" width="160" height="12" rx="4" fill="#444"/>
+  <rect x="80" y="300" width="120" height="20" rx="10" fill="#e50914"/>
+  <text x="140" y="314" text-anchor="middle" fill="#fff" font-size="11" font-family="sans-serif">Install</text>
+  <rect x="220" y="300" width="120" height="20" rx="10" fill="#333"/>
+  <text x="280" y="314" text-anchor="middle" fill="#999" font-size="11" font-family="sans-serif">Open</text>
+  <text x="316" y="370" text-anchor="middle" fill="#808080" font-size="11" font-family="sans-serif">↓ Install Downloader from Appstore</text>
+</svg>
